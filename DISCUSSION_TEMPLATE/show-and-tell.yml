@@ -1,10 +1,8 @@
-title: "[Show & Tell] "
-#labels: ["General Introduction"]
 body:
   - type: markdown
     attributes:
       value: |
-        Use this Show & Tell template to share your project with the community!
+        Use this Show & Tell template to share your project with the community! Use the categories below to structure your post.
   - type: textarea
     id: introduction
     attributes:
