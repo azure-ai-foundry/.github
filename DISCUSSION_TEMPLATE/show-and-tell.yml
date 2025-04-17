@@ -1,41 +1,37 @@
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Use this Show & Tell template to share your project with the community! Use the categories below to structure your post.
-  - type: textarea
-    id: introduction
-    attributes:
-      label: Introduction
-      description: Introduction: Brief overview of your project, including its purpose and inspiration.
-      value: |
-      render: bash
-    validations:
-      required: true
-  - type: textarea
-    id: features
-    attributes:
-      label: Features and Screenshots
-      description: Key Features: Highlight the main features of your project. Screenshots/Demos: Include images or links to demos showcasing these features.
-      value: |
-      render: bash
-    validations:
-      required: true
-  - type: textarea
-    id: technical_details
-    attributes:
-      label: Technical Details
-      description: Technologies Used: List the programming languages, frameworks, libraries, and tools. Architecture Overview: Provide a brief description or diagram of the project's architecture.
-      value: |
-      render: bash
-    validations:
-      required: true
-  - type: textarea
-    id: challenges_and_solutions
-    attributes:
-      label: Challenges and Solutions
-      description: Problems Encountered: Share significant challenges faced during development. Solutions Implemented: Explain how you overcame these challenges
-      value: |
-      render: bash
-    validations:
-      required: true
+ - type: markdown
+   attributes:
+     value: |
+       Use this Show & Tell template to share your project with the community! Use the categories below to structure your post.
+ - type: textarea
+   id: introduction
+   attributes:
+     label: Introduction
+     description: Introduction: Brief overview of your project, including its purpose and inspiration.
+     value: |
+   validations:
+     required: true
+ - type: textarea
+   id: features
+   attributes:
+     label: Features and Screenshots
+     description: Key Features: Highlight the main features of your project. Screenshots/Demos: Include images or links to demos showcasing these features.
+     value: |
+   validations:
+     required: true
+ - type: textarea
+   id: technical_details
+   attributes:
+     label: Technical Details
+     description: Technologies Used: List the programming languages, frameworks, libraries, and tools. Architecture Overview: Provide a brief description or diagram of the project's architecture.
+     value: |
+   validations:
+     required: true
+ - type: textarea
+   id: challenges_and_solutions
+   attributes:
+     label: Challenges and Solutions
+     description: Problems Encountered: Share significant challenges faced during development. Solutions Implemented: Explain how you overcame these challenges
+     value: |
+   validations:
+     required: true
