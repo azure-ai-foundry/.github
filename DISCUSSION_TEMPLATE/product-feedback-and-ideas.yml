@@ -1,0 +1,29 @@
+body:
+ - type: markdown
+   attributes:
+     value: |
+       Use this Product Feedback template to share you question/issue with the community to help people respond and support
+ - type: textarea
+   id: technical_feedback
+   attributes:
+     label: Technical Feedback
+     description: Describe the precise feedback.
+     value: |
+   validations:
+     required: true
+ - type: textarea
+   id: desired_outcome
+   attributes:
+     label: Desired Outcome
+     description: Explain what you aretrying to do. Include a requested solution if you have ideas
+     value: |
+   validations:
+     required: true
+ - type: textarea
+   id: current_workaround
+   attributes:
+     label: Current Workaround
+     description: Describe the workaround you are using to mitigate the issue. Include any relevant code snippets or examples.
+     value: |
+   validations:
+     required: true
