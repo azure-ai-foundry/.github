@@ -1,29 +1,33 @@
+title: "<Your question or feedback about Azure AI Foundry>"
 body:
- - type: markdown
-   attributes:
-     value: |
-       Use this Product Feedback template to share you question/issue with the community to help people respond and support
- - type: textarea
-   id: technical_feedback
-   attributes:
-     label: Technical Feedback
+  - type: markdown
+    attributes: 
+      value: |
+        "Product Feedback and Ideas: Provide information about using the product. This could include areas such as user experience, functionality, features, bugs and issues. As well as needs the platform may not provide today"
+  - type: textarea
+    id: technical_feedback
+    attributes:
+     label: "Technical Feedback"
      description: Describe the precise feedback.
-     value: |
-   validations:
+     value: | 
+      "Describe the precise feedback."
+    validations:
      required: true
- - type: textarea
-   id: desired_outcome
-   attributes:
-     label: Desired Outcome
-     description: Explain what you aretrying to do. Include a requested solution if you have ideas
-     value: |
-   validations:
+  - type: textarea
+    id: desired_outcome
+    attributes:
+     label: "Desired Outcome"
+     description: Explain what you are trying to do. Include a requested solution if you have ideas
+     value: | 
+      "Describe the desired outcome."
+    validations:
      required: true
- - type: textarea
-   id: current_workaround
-   attributes:
-     label: Current Workaround
+  - type: textarea
+    id: current_workaround
+    attributes:
+     label: "Current Workaround"
      description: Describe the workaround you are using to mitigate the issue. Include any relevant code snippets or examples.
      value: |
-   validations:
+      "Describe the current workaround."
+    validations:
      required: true
