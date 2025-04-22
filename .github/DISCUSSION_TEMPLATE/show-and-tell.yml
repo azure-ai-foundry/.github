@@ -20,7 +20,7 @@ body:
     id: features
     attributes:
      label: Features and Screenshots
-     description: Key Features - Highlight the main features of your project. Screenshots/Demos: Include images or links to demos showcasing these features.
+     description: Key Features - Highlight the main features of your project. Screenshots/Demos - Include images or links to demos showcasing these features.
      value: |
     validations:
      required: true
@@ -28,7 +28,7 @@ body:
     id: technical_details
     attributes:
      label: Technical Details
-     description: Technologies Used - List the programming languages, frameworks, libraries, and tools. Architecture Overview: Provide a brief description or diagram of the project's architecture.
+     description: Technologies Used - List the programming languages, frameworks, libraries, and tools. Architecture Overview- Provide a brief description or diagram of the project's architecture.
      value: |
     validations:
      required: true
@@ -36,7 +36,7 @@ body:
     id: challenges_and_solutions
     attributes:
      label: Challenges and Solutions
-     description: Problems Encountered - Share significant challenges faced during development. Solutions Implemented: Explain how you overcame these challenges
+     description: Problems Encountered - Share significant challenges faced during development. Solutions Implemented - Explain how you overcame these challenges
      value: |
     validations:
      required: true
