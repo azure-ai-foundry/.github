@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes: 
       value: |
-        "Product Feedback and Ideas: Provide information about using the product. This could include areas such as user experience, functionality, features, bugs and issues. As well as needs the platform may not provide today"
+        Product Feedback and Ideas: Provide information about using the product. This could include areas such as user experience, functionality, features, bugs and issues. As well as needs the platform may not provide today
   - type: textarea
     id: technical_feedback
     attributes:
