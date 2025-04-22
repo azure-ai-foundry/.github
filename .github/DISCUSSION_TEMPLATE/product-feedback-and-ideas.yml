@@ -10,7 +10,7 @@ body:
      label: "Technical Feedback"
      description: Describe the precise feedback.
      value: | 
-      "Describe the precise feedback."
+      Describe the precise feedback.
     validations:
      required: true
   - type: textarea
@@ -19,7 +19,7 @@ body:
      label: "Desired Outcome"
      description: Explain what you are trying to do. Include a requested solution if you have ideas
      value: | 
-      "Describe the desired outcome."
+      Describe the desired outcome.
     validations:
      required: true
   - type: textarea
@@ -28,6 +28,6 @@ body:
      label: "Current Workaround"
      description: Describe the workaround you are using to mitigate the issue. Include any relevant code snippets or examples.
      value: |
-      "Describe the current workaround."
+      Describe the current workaround.
     validations:
      required: true
