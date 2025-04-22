@@ -14,7 +14,7 @@ body:
      label: "Introduction"
      description: Introduction - Brief overview of your project, including its purpose and inspiration.
      value: | 
-        "Introduction - Brief overview of your project, including its purpose and inspiration."
+        "Introduction ... ""
     validations:
      required: true
   - type: textarea
@@ -23,7 +23,7 @@ body:
      label: "Features and Screenshots"
      description: Key Features - Highlight the main features of your project. Screenshots/Demos - Include images or links to demos showcasing these features.
      value: | 
-        "Key Features - Highlight the main features of your project. Screenshots/Demos - Include images or links to demos showcasing these features."
+        "Key Features ..."
     validations:
      required: true
   - type: textarea
@@ -32,7 +32,7 @@ body:
      label: "Technical Details"
      description: Technologies Used - List the programming languages, frameworks, libraries, and tools. Architecture Overview- Provide a brief description or diagram of the project's architecture.
      value: | 
-        "Technologies Used - List the programming languages, frameworks, libraries, and tools. Architecture Overview- Provide a brief description or diagram of the project's architecture."
+        "Technologies Used ..."
     validations:
      required: true
   - type: textarea
@@ -41,6 +41,6 @@ body:
      label: "Challenges and Solutions"
      description: Problems Encountered - Share significant challenges faced during development. Solutions Implemented - Explain how you overcame these challenges
      value: | 
-        "Problems Encountered - Share significant challenges faced during development. Solutions Implemented - Explain how you overcame these challenges"
+        "Problems Encountered & Solutions Implemented ... "
     validations:
      required: true
