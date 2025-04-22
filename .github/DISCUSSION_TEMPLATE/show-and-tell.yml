@@ -1,37 +1,42 @@
+title: "<Share your project with the community that is built using Azure AI Foundry!>"
 body:
- - type: markdown
-   attributes:
+  - type: markdown
+    attributes: 
+      value: |
+        Show and Tell: The place for you to 'show off' what you have created using Azure AI Foundry and inspire other developers in the community to build upon your great work
+  - type: markdown
+    attributes:
      value: |
        Use this Show & Tell template to share your project with the community! Use the categories below to structure your post.
- - type: textarea
-   id: introduction
-   attributes:
+  - type: textarea
+    id: introduction
+    attributes:
      label: Introduction
-     description: Introduction: Brief overview of your project, including its purpose and inspiration.
+     description: Introduction - Brief overview of your project, including its purpose and inspiration.
      value: |
-   validations:
+    validations:
      required: true
- - type: textarea
-   id: features
-   attributes:
+  - type: textarea
+    id: features
+    attributes:
      label: Features and Screenshots
-     description: Key Features: Highlight the main features of your project. Screenshots/Demos: Include images or links to demos showcasing these features.
+     description: Key Features - Highlight the main features of your project. Screenshots/Demos: Include images or links to demos showcasing these features.
      value: |
-   validations:
+    validations:
      required: true
- - type: textarea
-   id: technical_details
-   attributes:
+  - type: textarea
+    id: technical_details
+    attributes:
      label: Technical Details
-     description: Technologies Used: List the programming languages, frameworks, libraries, and tools. Architecture Overview: Provide a brief description or diagram of the project's architecture.
+     description: Technologies Used - List the programming languages, frameworks, libraries, and tools. Architecture Overview: Provide a brief description or diagram of the project's architecture.
      value: |
-   validations:
+    validations:
      required: true
- - type: textarea
-   id: challenges_and_solutions
-   attributes:
+  - type: textarea
+    id: challenges_and_solutions
+    attributes:
      label: Challenges and Solutions
-     description: Problems Encountered: Share significant challenges faced during development. Solutions Implemented: Explain how you overcame these challenges
+     description: Problems Encountered - Share significant challenges faced during development. Solutions Implemented: Explain how you overcame these challenges
      value: |
-   validations:
+    validations:
      required: true
