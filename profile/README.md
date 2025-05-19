@@ -6,14 +6,14 @@
 
 Welcome to the Azure AI Foundry Developer Community. We are here to support you in building the next great thing, with Azure AI Foundry:
 
-🌐 A Vibrant Forum for Q&A + Code
-Need quick answers? Our interactive forum is buzzing with experienced devs ready to help troubleshoot, optimize code, and share best practices. You'll find insights that push your projects forward.
-
-🎙️ DevBlogs with the Latest Updates
-Stay ahead of the curve with [https://devblogs.microsoft.com/foundry/](https://devblogs.microsoft.com/foundry/),all the latest news and changelogs for Azure AI Foundry.
-
-🎮 Real-time Discord Chats, Events & Learning
-Get instant support, network with top developers, and participate in exciting events that help hone your skills. Our real-time Discord community ensures you stay connected, inspired, and ready to tackle new challenges.
+  🌐 A Vibrant Forum for Q&A + Code
+  Need quick answers? Our interactive forum is buzzing with experienced devs ready to help troubleshoot, optimize code, and share best practices. You'll find insights that push your projects forward.
+  
+  🎙️ DevBlogs with the Latest Updates
+  Stay ahead of the curve with [https://devblogs.microsoft.com/foundry/](https://devblogs.microsoft.com/foundry/),all the latest news and changelogs for Azure AI Foundry.
+  
+  🎮 Real-time Discord Chats, Events & Learning
+  Get instant support, network with top developers, and participate in exciting events that help hone your skills. Our real-time Discord community ensures you stay connected, inspired, and ready to tackle new challenges.
 
 🔗 Ready to Connect?
 Join the Azure AI Foundry Developer Community today:
