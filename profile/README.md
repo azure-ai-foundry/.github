@@ -12,7 +12,7 @@ Welcome to the Azure AI Foundry Developer Community. We are here to support you 
   
   🎙️ **DevBlogs with the Latest Updates**
   
-  * Stay ahead of the curve with [https://devblogs.microsoft.com/foundry/](https://devblogs.microsoft.com/foundry/),all the latest news and changelogs for Azure AI Foundry.
+  * Stay ahead of the curve with [devblogs.microsoft.com/foundry/](https://devblogs.microsoft.com/foundry/), all the latest release announcements and what's new for Azure AI Foundry.
   
   🎮 **Real-time [Discord](https://aka.ms/azureaifoundry/discord) Chats, Events & Learning**
   
