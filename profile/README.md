@@ -1,6 +1,6 @@
 # Microsoft Foundry
 
-[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/foundry/discord)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/microsoftfoundry)](https://aka.ms/foundry/discord)
 
 Welcome to the Microsoft Foundry Developer Community. We are here to support you in building the next great thing, with Microsoft Foundry:
 
