@@ -1,4 +1,4 @@
-# Microsoft Foundry Organization
+# Microsoft Foundry
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/foundry/discord)
 
